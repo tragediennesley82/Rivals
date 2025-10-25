@@ -1,0 +1,2 @@
+# Rivals
+Auto-generated repository
